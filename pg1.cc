@@ -1,14 +1,4 @@
-/* -*-  Mode: C++; c-file-style: "gnu"; indent-tabs-mode:nil; -*- */
-/*
- * Five base nodes, one mover node
- *
- *      m ->
- *     /
- *    /
- *   /
- *  b1         b2         b3         b4         b5
- *
- */
+
 
 #include "ns3/core-module.h"
 #include "ns3/network-module.h"
